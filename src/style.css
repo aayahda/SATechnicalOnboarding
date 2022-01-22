@@ -24,24 +24,25 @@ main {
 
 h1 {
     color:black;
-    margin: 0em;
+    margin: 0.4em;
     display: block;
 }
 
 h2 {
     color: black;
-    font-size: 1.2em;
-    margin: 0em;
+    font-size: 1em;
+    margin: 0.2em;
 }
 
 h3 {
     color: black;
-    font-size: 1em;
-    margin: 0em;
+    font-size: 0.8em;
+    margin: 0.1em;
 }
 
 ul {
     margin: 0em 0em .3em 0em;
     list-style-type: square;
     padding-left: 1.4em;
+    font-size: small;
 }
