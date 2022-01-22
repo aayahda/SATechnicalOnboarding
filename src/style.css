@@ -13,13 +13,13 @@ main {
 
 .box {
     box-shadow: .1em .1em .2em #8f918f;
-    border-radius: .1em;
+    border-radius: 1em;
     border-width: 0em;
     border-style: solid;
-    margin-left: .4em;
+    margin-left: .7em;
     padding: .0em .5em .1em .5em;
-    margin-bottom: .5em;
-    margin-top: .3em;
+    margin-bottom: .9em;
+    margin-top: .9em;
 }
 
 h1 {
