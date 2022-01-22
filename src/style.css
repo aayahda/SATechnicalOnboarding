@@ -23,19 +23,19 @@ main {
 }
 
 h1 {
-    color: navy;
+    color:black;
     margin: 0em;
     display: block;
 }
 
 h2 {
-    color: navy;
+    color: black;
     font-size: 1.2em;
     margin: 0em;
 }
 
 h3 {
-    color: navy;
+    color: black;
     font-size: 1em;
     margin: 0em;
 }
