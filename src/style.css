@@ -12,7 +12,7 @@ main {
 
 
 .box {
-    box-shadow: 0em .1em .2em #8f918f;
+    box-shadow: 0em .1em .1em #8f918f;
     border-radius: 1em;
     border-width: 0em;
     border-style: solid;
@@ -44,6 +44,11 @@ h3 {
 ul {
     margin: 0em 0em .3em 0em;
     list-style-type: square;
-    padding-left: 2.5em;
+    padding-left: 3em;
     font-size: small;
+}
+
+div{
+    font-size: 0.6em;
+    padding-left:3em ;
 }
